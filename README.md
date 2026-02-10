@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/FBX-supported-purple" />
   <img src="https://img.shields.io/badge/GLB-supported-blue" />
   <img src="https://img.shields.io/badge/license-MIT-green" />
-  <img src="https://komarev.com/ghpvc/?username=promptpirate-x&repo=discord-id-bypass-tool&color=blue&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=promptpirate-x&repo=discord-id-bypass-tool&color=blue&style=for-the-badge&label=repo+views" />
 </p>
 
 ---
