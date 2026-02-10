@@ -97,3 +97,4 @@ MIT — do whatever you want with it.
 <p align="center">
   <sub>☠ Made with love by <a href="https://github.com/PromptPirate">PromptPirate</a></sub>
 </p>
+![Views](https://komarev.com/ghpvc/?username=promptpirate-x&repo=discord-id-bypass-tool&color=4A412A)
