@@ -21,7 +21,7 @@
 
 ## What is this?
 
-A browser-based tool that lets you control a 3D rigged avatar's head and mouth in real-time using a gamepad (DualSense, Xbox, etc.) or keyboard to skirt the discord juice. robably has some other utility, but who cares
+A browser-based tool that lets you control a 3D rigged avatar's head and mouth in real-time using a gamepad (DualSense, Xbox, etc.) or keyboard to skirt the discord juice, or soyjack with your favourite rigged models just for fun!
 
 https://github.com/user-attachments/assets/4aba4a67-9847-4d28-9c8c-4129a67e9332
 ### Features
