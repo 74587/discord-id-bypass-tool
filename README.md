@@ -44,6 +44,7 @@ https://github.com/user-attachments/assets/4aba4a67-9847-4d28-9c8c-4129a67e9332
 5. Control with gamepad or keyboard
 
 ## How to map the mouth to a controller
+You have to click eyeleft mouthopen for some reason first, then go to Wolfhead3Dhead mouth open, and that slider will work with the model included
 <img width="1233" height="1378" alt="Image" src="https://github.com/user-attachments/assets/727f2b11-bd2f-4061-bcda-d51df4b4c8a1" />
 
 ## Controls
