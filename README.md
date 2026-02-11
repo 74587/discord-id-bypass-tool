@@ -19,7 +19,7 @@
 </p>
 
 ---
-# WUPDATE
+# UPDATE
 Discord "may" be adding blink tests now, so let me now if they are and ill map that with an update
 
 ## What is this?
