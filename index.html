@@ -25,7 +25,7 @@
   .vl{color:#808090}.vn{color:#64dcff;font-weight:600;font-variant-numeric:tabular-nums}
   .vbt{width:80px;height:4px;background:rgba(100,220,255,0.1);border-radius:2px;overflow:hidden;margin-left:10px}
   .vbf{height:100%;background:linear-gradient(90deg,#64dcff,#a78bfa);border-radius:2px;transition:width 0.05s linear}
-  .sensitivity-panel{top:20px;left:50%;transform:translateX(-50%)}
+  .sensitivity-panel{top:20px;left:28%;transform:translateX(-50%)}
   .sr{display:flex;align-items:center;gap:8px;padding:3px 0;font-size:11px;color:#a0a0b0}
   .sb{background:rgba(100,220,255,0.1);border:1px solid rgba(100,220,255,0.3);color:#64dcff;width:22px;height:22px;border-radius:4px;cursor:pointer;font-size:14px;display:flex;align-items:center;justify-content:center}
   .sb:hover{background:rgba(100,220,255,0.25)}
@@ -149,8 +149,8 @@
 
     <div class="hp controls-panel">
       <div class="ht">Controls</div>
-      <div class="cr"><span>Head Yaw</span><span class="ck">← → / L-Stick X</span></div>
-      <div class="cr"><span>Head Pitch</span><span class="ck">↑ ↓ / L-Stick Y</span></div>
+      <div class="cr"><span>Head Yaw</span><span class="ck">A D / L-Stick X</span></div>
+      <div class="cr"><span>Head Pitch</span><span class="ck">W S / L-Stick Y</span></div>
       <div class="cr"><span>Head Roll</span><span class="ck">Q E / R-Stick X</span></div>
       <div class="cr"><span>Mouth</span><span class="ck">Space / RT</span></div>
       <div class="cr"><span>Reset</span><span class="ck">R / Y Button</span></div>
@@ -921,8 +921,8 @@ function dz(v){return Math.abs(v)<CFG.dz?0:v}
 function processInput(){
   var k=S.keys,spd=2.5;
   var kY=0,kP=0,kR=0,kM=0;
-  if(k['ArrowLeft'])kY+=spd;if(k['ArrowRight'])kY-=spd;
-  if(k['ArrowUp'])kP+=spd;if(k['ArrowDown'])kP-=spd;
+  if(k['KeyD'])kY+=spd;if(k['KeyA'])kY-=spd;
+  if(k['KeyS'])kP+=spd;if(k['KeyW'])kP-=spd;
   if(k['KeyQ'])kR+=spd;if(k['KeyE'])kR-=spd;
   if(k['Space'])kM=1;
   if(k['KeyR']){S.tY=S.tP=S.tR=S.tM=0;return}
