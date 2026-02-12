@@ -24,8 +24,7 @@ Discord "may" be adding blink tests now, so let me know if they are and ill map 
 
 ### Harambe Memorial Day Is Coming Soon, Lest We Forget 🕊🙏
 <div align="center">
-  <video src="https://github.com/user-attachments/assets/548552636-bd6d026f-72de-468f-87bd-8dc3f6e538d7" loop autoplay muted playsinline>
-  </video>
+  <img src="https://github.com/user-attachments/assets/548555746-2b04e3e6-ca69-4557-aafb-c74e3811b0f3" alt="Harambe Memorial Day">
 </div>
 
 ## What is this?
