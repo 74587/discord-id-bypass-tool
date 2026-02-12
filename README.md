@@ -26,6 +26,8 @@ Credits to:
 https://kibty.town/
 https://github.com/Dziurwa14
 
+### Edit: The trick above has been patched into the Persona/k-ID system apparently. My tool still works for most people, but some people are failing selfie checks no matter what model or tool they use, and I'm not certain why
+
 ### I've added an older looking male model, you just need to download the zip file, along with the zo1 and z02 file (its a split archive)
 
 # UPDATE 2
