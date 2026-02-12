@@ -24,7 +24,7 @@ Discord "may" be adding blink tests now, so let me know if they are and ill map 
 
 ### Harambe Memorial Day Is Coming Soon, Lest We Forget 🕊🙏
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/548555746-2b04e3e6-ca69-4557-aafb-c74e3811b0f3" alt="Harambe Memorial Day">
+  <img src="https://github.com/user-attachments/assets/2b04e3e6-ca69-4557-aafb-c74e3811b0f3" alt="Harambe Memorial Day">
 </div>
 
 ## What is this?
